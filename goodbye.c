@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define TEST
+#define TEST 0
 
 int main()
 {
